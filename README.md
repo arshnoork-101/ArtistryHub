@@ -2,14 +2,11 @@
 
 A modern, responsive web application for **searching and viewing artworks** from the **Metropolitan Museum of Art Collection API**. Built with **Next.js**, **React**, and **React Bootstrap**, featuring advanced search, artwork detail views, and a polished user interface.
 
----
 
 ## 🏠 Home Page
 ![Home Page](./images/HomePage.png)
 
 You can see the **live working application** here: [ArtistryHub Live Demo](https://drive.google.com/file/d/1D7qU6fzz9Zht3Jp3w0k9UyM2CRPA9iOB/view?usp=sharing)
-
----
 
 
 ## 🏆 Features
