@@ -52,21 +52,12 @@ cd artistryhub
 npm install swr bootstrap react-bootstrap react-hook-form jotai
 ```
 
-3. **Environment setup and Configure environment variables**
-```bash
-cp .env.example .env.local
-```
-
-```env
-NEXT_PUBLIC_API_URL=your-user-api-url
-```
-
-4. **Start development server**
+3. **Start development server**
 ```bash
 npm run dev
 ```
 
-5. **Open your browser**
+4. **Open your browser**
 ```
 http://localhost:3000
 ```
