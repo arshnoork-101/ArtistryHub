@@ -40,9 +40,7 @@ You can see the **live working application** here: [ArtistryHub Live Demo](https
 ## ⚡ Setup & Installation
 
 ### Prerequisites
-- Node.js   
-- MongoDB database (or MongoDB Atlas)
-- Visual Studio Code
+- Node.js, MongoDB database (or MongoDB Atlas), Visual Studio Code
 
 ### Installation Steps
 
@@ -57,22 +55,21 @@ cd artistryhub
 npm install swr bootstrap react-bootstrap react-hook-form jotai
 ```
 
-3. **Environment setup**
+3. **Environment setup and Configure environment variables**
 ```bash
 cp .env.example .env.local
 ```
 
-4. **Configure environment variables**
 ```env
 NEXT_PUBLIC_API_URL=your-user-api-url
 ```
 
-5. **Start development server**
+4. **Start development server**
 ```bash
 npm run dev
 ```
 
-6. **Open your browser**
+5. **Open your browser**
 ```
 http://localhost:3000
 ```
@@ -99,7 +96,7 @@ This project follows a **modular architecture** to ensure scalability and mainta
 
 Contributions are always welcome! 
 
-If you are interested in contributing to ArtistrHub, start by forking the repository to your own GitHub account and then create a new branch where you can work on your changes. Once you have implemented your improvements—whether they are bug fixes, feature enhancements, or documentation updates—make sure your code is clean, well-documented, and consistent with the existing structure. After testing your changes locally, push your branch to your forked repository and open a **pull request** describing the modifications you made. The changes will get reviewed, and once approved, your contribution will be merged into the main project.  
+If you want to contribute to ArtistryHub, fork the repo, create a new branch, and make your changes. Ensure your code is clean, tested, and follows the existing structure. Push your branch to your fork and open a **pull request** describing your changes for review and merging.
 
 ---
 
